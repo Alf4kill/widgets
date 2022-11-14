@@ -1,3 +1,9 @@
+<!--  -->
+
+# This project was made with the purpose of study the React language with a focus on Hooks
+
+<!--  -->
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
