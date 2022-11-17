@@ -21,12 +21,6 @@ const Accordion = ({ items }) => {
       </React.Fragment>
     );
   });
-  return (
-    <div className="ui styled accordion">
-      {rendereditens}
-
-      {activeIndex}
-    </div>
-  );
+  return <div className="ui styled accordion">{rendereditens}</div>;
 };
 export default Accordion;
